@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.selinium.course_project.tests.base.TestBaseUtil
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.138 sec
